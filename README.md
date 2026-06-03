@@ -29,8 +29,12 @@ I’m a Data Analyst and a university student blending the worlds of Finance and
 
 ### 🤝 Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmina-aliyeva/) — *Always open to new connections!*
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alijewa25_/) — *For random and fun updates!*
+<a href="https://www.linkedin.com/in/tahmina-aliyeva/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a> &nbsp;
+<a href="https://www.instagram.com/alijewa25_/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" width="40" height="40"/>
+</a>
 
 ---
 
