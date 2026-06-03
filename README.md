@@ -11,6 +11,7 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 - ✍️ **Writing data stories** on [Medium](https://medium.com/@tahminaalijewa) 🚀
 - 💬 **Open to:** New connections, data talks, or just sharing cool music! ✨
 - ☕ **Energy source:** Powered by 90% caffeine and 10% "query success" dopamine.
+  
 - ⚡ **Fun fact:** My fav animal is panda and i want to become one (ahahah) 🐼
 
 ---
