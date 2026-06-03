@@ -1,4 +1,4 @@
-# Welcome to my SPACE! I'm the gravity, Tahmina 🌌🚀
+# Welcome to my space! I'm the gravity, Tahmina 🌌🚀
 
 Without gravity, there is no orbit. I'm the force here keeping all the data, tech, and financial systems in perfect balance. ✨
 
@@ -11,7 +11,6 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 - ✍️ **Writing data stories** on [Medium](https://medium.com/@tahminaalijewa) 🚀
 - 💬 **Open to:** New connections, data talks, or just sharing cool music! ✨
 - ☕ **Energy source:** Powered by 90% caffeine and 10% "query success" dopamine.
-  
 - ⚡ **Fun fact:** My fav animal is panda and i want to become one (ahahah) 🐼
 
 ---
@@ -23,6 +22,7 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
 
 *Database & Tools: Oracle SQL, SQLite, Excel*
 
