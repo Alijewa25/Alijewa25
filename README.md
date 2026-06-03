@@ -7,12 +7,8 @@ I’m a Data Analyst and a university student blending the worlds of Finance and
 ### What I'm doing right now:
 
 - 📊 **Analyzing financial and tech data** to build data-driven fintech models.
-- 🔭 **Building my data portfolio** with real-world business cases.
-- 🌱 **Learning** deeper aspects of Machine Learning and Advanced Analytics.
-- 👯 **Looking to collaborate on** open-source Fintech and Data Analysis tools.
-- 🤔 **Looking for help with** optimizing complex Oracle SQL queries.
+- 🌱 **Learning** Analytics and searching for the next big thing I don't even know yet (hehe).
 - ✍️ **Writing data stories** on [Medium](https://medium.com/@tahminaalijewa) 🚀
-- 🧩 **Exploring** piano chords, chess strategies, and new music playlists.
 - 💬 **Open to:** New connections, data talks, or just sharing cool music! ✨
 - ☕ **Energy source:** Powered by 90% caffeine and 10% "query success" dopamine.
 - ⚡ **Fun fact:** My fav animal is panda and i want to become one (ahahah) 🐼
@@ -33,8 +29,8 @@ I’m a Data Analyst and a university student blending the worlds of Finance and
 
 ### 🤝 Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahminaalijewa) — *Always open to new connections!*
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tahminaalijewa) — *For random and fun updates!*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmina-aliyeva/) — *Always open to new connections!*
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alijewa25_/) — *For random and fun updates!*
 
 ---
 
