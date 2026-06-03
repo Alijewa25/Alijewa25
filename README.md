@@ -1,4 +1,4 @@
-# Welcome to my space! I'm the gravity, Tahmina 🌌🚀
+# Welcome to my SPACE! I'm the gravity, Tahmina 🌌🚀
 
 Without gravity, there is no orbit. I'm the force here keeping all the data, tech, and financial systems in perfect balance. ✨
 
