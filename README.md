@@ -66,6 +66,12 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ---
 
+<p align="center">
+  <img src="GITRIDE_IMAGE_URL" width="600"/>
+</p>
+
+---
+
 ## 🌌 End of Transmission
 
 ```python
