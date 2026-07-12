@@ -18,20 +18,11 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 ### 🛠️ Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,mongodb,sqlite,vscode&theme=dark" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="48" height="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,mongodb,sqlite,vscode&theme=dark&perline=9" />
 </p>
+
+**Also experienced with:** Oracle SQL • Pandas • Jupyter Notebook • Tableau • Power BI
+
 ---
 
 ### 🤝 Connect with me
