@@ -17,14 +17,10 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ### 🛠️ Tech & Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-
-*Database & Tools: Oracle SQL, SQLite, Excel*
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,sqlite,mongodb,oracle,pandas,jupyter,vscode&perline=25" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,powerbi,bun&theme=dark" height="48" />
+</p>
 ---
 
 ### 🤝 Connect with me
