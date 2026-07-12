@@ -17,13 +17,11 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,mongodb,sqlite,pandas,jupyter,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,mongodb,sqlite,pandas,jupyter,vscode&theme=dark&perline=19" />
 </p>
 
-**Also experienced with:** Oracle SQL • Tableau • Power BI
+*Also experienced with:** Oracle SQL • Tableau • Power BI*
 ---
 
 ### 🤝 Connect with me
