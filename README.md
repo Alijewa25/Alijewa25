@@ -35,23 +35,6 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 </a>
 
 ---
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/tahmina-aliyeva/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/alijewa25_/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/>
-</a>
-
-<a href="https://medium.com/@tahminaalijewa" target="_blank">
-<img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40"/>
-</a>
-</p>
-
----
 
 ## 📋 GitHub Summary
 
