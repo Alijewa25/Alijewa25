@@ -35,42 +35,67 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 </a>
 
 ---
+## 🤝 Let's Connect
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/tahmina-aliyeva/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
-### 📋 GitHub Summary
+<a href="https://www.instagram.com/alijewa25_/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alijewa25&theme=github_dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alijewa25&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alijewa25&theme=github_dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alijewa25&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alijewa25&theme=github_dark&utcOffset=4" />
+<a href="https://medium.com/@tahminaalijewa" target="_blank">
+<img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40"/>
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📋 GitHub Summary
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alijewa25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alijewa25&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alijewa25&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alijewa25&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alijewa25&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alijewa25&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alijewa25&theme=github_dark&utcOffset=4"/>
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alijewa25&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Alijewa25&theme=github-dark&hide_border=true&background=00000000"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=github-dark&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=github-dark&hide_border=true&bg_color=00000000"/>
 </p>
+
+---
+
+## 🌌 End of Transmission
+
+```python
+while curiosity:
+    learn()
+    build()
+    share()
+```
+
+> *"Without curiosity, there is no innovation."*
+
+Thank you for visiting my little universe.
+
+If something here inspired you, let's connect, collaborate, or build something meaningful together.
+
+### 🚀 See you in the next commit.
