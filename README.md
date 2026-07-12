@@ -66,16 +66,9 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ---
 
-<h2 align="center">⚡ My GitHub Journey</h2>
-
 <p align="center">
-  <img src="GITRIDE_IMAGE_URL" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alijewa25&show_icons=true&theme=transparent"/>
 </p>
-
-<p align="center">
-  Building systems, analyzing data, and turning ideas into technology.
-</p>
-
 ---
 
 ## 🌌 End of Transmission
