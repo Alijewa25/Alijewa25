@@ -37,8 +37,7 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 ---
 
 ### 📈 GitHub Profile Summary
-<p align="left">
-  <a href="https://github.com/Alijewa25">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alijewa25&theme=zenburn" alt="Tahmina's GitHub Stats" />
-  </a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alijewa25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alijewa25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
