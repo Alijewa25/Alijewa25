@@ -66,10 +66,10 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ---
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alijewa25/Alijewa25/output/github-contribution-grid-snake-dark.svg" width="700"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=github-dark"/>
 </p>
 
 ---
