@@ -18,8 +18,14 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 ### 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,sqlite,mongodb,oracle,pandas,jupyter,vscode&perline=25" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,powerbi,bun&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,fastapi,docker,git,github,linux,bash,mysql,postgres,sqlite,mongodb,pandas,jupyter,vscode&theme=dark&perline=12" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun&logoColor=white"/>
 </p>
 ---
 
