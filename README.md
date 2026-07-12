@@ -36,37 +36,41 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ---
 
+---
+
 ### 📋 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alijewa25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alijewa25&theme=github_dark" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alijewa25&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alijewa25&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alijewa25&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alijewa25&theme=github_dark" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alijewa25&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alijewa25&theme=tokyonight&utcOffset=4"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alijewa25&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alijewa25&theme=github_dark&utcOffset=4" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alijewa25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alijewa25&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alijewa25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alijewa25&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9"/>
 </p>
+
+---
+
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alijewa25&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Alijewa25&theme=github-dark&hide_border=true"/>
 </p>
+
+---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=tokyo-night&hide_border=true"/>
-</p>
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alijewa25&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=github-dark&hide_border=true&bg_color=00000000"/>
 </p>
