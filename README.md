@@ -22,7 +22,7 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,mysql,postgres,mongodb,sqlite,pandas,jupyter,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,mysql,postgres,mongodb,sqlite,vscode&theme=dark" />
 </p>
 
 **Also experienced with:** Oracle SQL • Tableau • Power BI
