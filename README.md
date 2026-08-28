@@ -61,7 +61,7 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alijewa25&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=react-dark&hide_border=true" />
 </p>
 
 ---
