@@ -58,14 +58,6 @@ Without gravity, there is no orbit. I'm the force here keeping all the data, tec
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alijewa25&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌌 End of Transmission
 
 ```python
